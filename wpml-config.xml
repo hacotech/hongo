@@ -1,0 +1,42 @@
+<wpml-config> 
+    <admin-texts>
+        <key name="theme_mods_hongo">
+            <key name="blogname"/>
+            <key name="blogdescription"/>
+            <key name="hongo_page_not_found_main_title"/>
+            <key name="hongo_page_not_found_title"/>
+            <key name="hongo_page_not_found_subtitle"/>
+            <key name="hongo_page_not_found_button_text"/>
+            <key name="hongo_search_placeholder_text"/>
+            <key name="hongo_scroll_to_top_text"/>
+            <key name="hongo_gdpr_text"/>
+            <key name="hongo_gdpr_button_text"/>
+            <key name="hongo_author_box_button_title"/>
+            <key name="hongo_related_posts_title"/>
+            <key name="hongo_page_title_subtitle"/>
+            <key name="hongo_single_post_title_subtitle"/>
+            <key name="hongo_archive_title_subtitle"/>
+            <key name="hongo_default_title_subtitle"/>
+            <key name="hongo_single_product_title_subtitle"/>
+            <key name="hongo_product_archive_title_subtitle"/>
+            <key name="hongo_single_product_cross_sells_title"/>
+            <key name="hongo_mini_cart_usp_text"/>
+            <key name="hongo_single_product_sold_text"/>
+            <key name="hongo_single_product_new_text"/>
+            <key name="hongo_single_product_wishlist_text"/>
+            <key name="hongo_single_product_compare_text"/>
+            <key name="hongo_single_product_share_title"/>
+            <key name="hongo_single_product_related_title"/>
+            <key name="hongo_single_product_up_sells_title"/>
+            <key name="hongo_product_archive_sold_text"/>
+            <key name="hongo_product_archive_new_text"/>
+            <key name="hongo_product_archive_quick_view_text"/>
+            <key name="hongo_product_archive_wishlist_text"/>
+            <key name="hongo_product_archive_compare_text"/>
+            <key name="hongo_quick_view_product_wishlist_text"/>
+            <key name="hongo_quick_view_product_compare_text"/>
+            <key name="hongo_compare_product_heading_text"/>
+            <key name="hongo_comment_title"/>
+        </key>
+    </admin-texts>
+</wpml-config>
